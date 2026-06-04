@@ -1,4 +1,4 @@
-# TP-WIK-DPS-TP01
+# WIK-DPS-TP01
 Projet concernant le TP du 03/06/2026 réalisé au sein d'Ynov Campus.
 
 ### Utilisation
